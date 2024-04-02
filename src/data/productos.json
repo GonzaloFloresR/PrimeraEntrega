@@ -1,0 +1,83 @@
+[
+     {
+          "id": 7,
+          "title": "Producto Prueba 7",
+          "description": "Tritón",
+          "price": 250,
+          "thumbnail": "img/triton.jpg",
+          "code": "gal980",
+          "stock": 3
+     },
+     {
+          "id": 8,
+          "title": "Bola negra",
+          "description": "Excelente bola negra para jugar pool",
+          "price": 250,
+          "thumbnail": "img/bola.jpg",
+          "code": "bola980",
+          "stock": 3
+     },
+     {
+          "id": 9,
+          "title": "Producto Prueba 9",
+          "description": "Nestlé",
+          "price": 550,
+          "thumbnail": "img/café.jpg",
+          "code": "caf980",
+          "stock": 3
+     },
+     {
+          "id": 10,
+          "title": "Pastas",
+          "description": "Desde Postman",
+          "price": 500,
+          "thumbnail": "sin imagen",
+          "code": "fidee189",
+          "stock": 13
+     },
+     {
+          "id": 11,
+          "title": "Estufas",
+          "description": "Desde Postman",
+          "price": 500,
+          "thumbnail": "sin imagen",
+          "code": "fidestuf",
+          "stock": 13
+     },
+     {
+          "id": 12,
+          "title": "Estufas",
+          "description": "Desde Postman",
+          "price": 500,
+          "thumbnail": "sin imagen",
+          "code": "fi463stuf",
+          "stock": 13
+     },
+     {
+          "id": 13,
+          "title": "Estufas",
+          "description": "Desde Postman",
+          "price": 500,
+          "thumbnail": "sin imagen",
+          "code": "superlogo",
+          "stock": 13
+     },
+     {
+          "id": 14,
+          "title": "Estufas",
+          "description": "Desde Postman",
+          "price": 500,
+          "thumbnail": "sin imagen",
+          "code": "supego",
+          "stock": 13
+     },
+     {
+          "id": 15,
+          "title": "Estufas",
+          "description": "Desde Postman",
+          "price": 500,
+          "thumbnail": "sin imagen",
+          "code": "supenuego",
+          "stock": 13
+     }
+]
