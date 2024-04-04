@@ -1,10 +1,9 @@
 const Router = require("express");
 const router = Router();
 const path = require("path");
-
-const rutaProductManager = "/Applications/MAMP/htdocs/ClaseBackend/Desafio4/src/classes/ProductManager.js";
-const ProductManager = require(rutaProductManager);
-const rutaProductos = "/Applications/MAMP/htdocs/ClaseBackend/Desafio4/src/data/productos.json";
+const ProductManager = require("../classes/ProductManager.js");
+const rutaProductos = path.join(__dirname,`../data/productos.json`); //esta es la ruta conflictiva
+console.log(rutaProductos);
 
 
 const entorno = async () => {

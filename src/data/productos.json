@@ -79,5 +79,14 @@
           "thumbnail": "sin imagen",
           "code": "supenuego",
           "stock": 13
+     },
+     {
+          "id": 16,
+          "title": "AntiHistaminico",
+          "description": "Allegra",
+          "price": 32000,
+          "thumbnail": "sin imagen",
+          "code": "AntiHAlle",
+          "stock": 10
      }
 ]

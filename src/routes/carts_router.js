@@ -2,10 +2,8 @@ const Router = require("express");
 const router = Router();
 const path = require("path");
 
-
-const rutaCartsManager = "/Applications/MAMP/htdocs/ClaseBackend/Desafio4/src/classes/CartsManager.js";
-const CartsManager = require(rutaCartsManager);
-const RutaCarrito = "/Applications/MAMP/htdocs/ClaseBackend/Desafio4/src/data/carrito.js";
+const CartsManager = require("../classes/CartsManager.js");
+const RutaCarrito = path.join(__dirname,"../data/carrito.js");
 
 
 const entorno = async () => { //abriendo entorno async

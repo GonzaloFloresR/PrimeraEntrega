@@ -42,7 +42,7 @@
                },
                {
                     "pid": 7,
-                    "quantity": 1
+                    "quantity": 4
                }
           ]
      },
